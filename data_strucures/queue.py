@@ -32,3 +32,6 @@ def display():
             break
         else:
             print("Invalid Option!!!")
+
+def main():
+    display()
