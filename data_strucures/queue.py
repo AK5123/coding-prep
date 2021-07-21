@@ -33,5 +33,5 @@ def display():
         else:
             print("Invalid Option!!!")
 
-def main():
+if __name__ == "__main__":
     display()
