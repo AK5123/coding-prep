@@ -1,4 +1,4 @@
-# Given a string, find the length of the longest substring which has no repeating characters.
+# Given a string, find the length of the longest substring which has no repeating characters. 
 tring="abbbb"
 i = 0
 j=0
