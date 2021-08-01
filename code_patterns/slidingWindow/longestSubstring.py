@@ -17,5 +17,5 @@ while i < len(tring):
             j += 1
     i += 1
 
-# Similar
+# Similar to
 print(res)
