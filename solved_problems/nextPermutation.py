@@ -16,4 +16,5 @@ class Solution:
                     n[i+k] = temp[k]
                 return    
         n.reverse()       
-        return        
+        return       
+    
