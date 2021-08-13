@@ -20,4 +20,5 @@ class Solution:
                     return check(root.right,total+root.val)
         if not root:
             return False
-        return check(root,0)        
+        return check(root,0)     
+           
