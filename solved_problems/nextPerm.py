@@ -1,4 +1,4 @@
-
+# https://www.hackerearth.com/challenges/competitive/hackerearth-test-draft-3-115/problems/d5d97b24ef5a40b39cd2461430e702d3/
 def next_permutation (n, arr):
     # Write your code here
     i = n - 1
