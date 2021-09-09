@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/max-consecutive-ones-iii/submissions/
 def longestOnes(nums, k):
     i=0
     ans=0
