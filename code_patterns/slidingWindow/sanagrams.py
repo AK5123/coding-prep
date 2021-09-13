@@ -27,7 +27,6 @@ for j in range(len(s)):
         i += 1
     if matched == len(p):
         res.append(j-matched+1)
-print(res)
 
 
 
